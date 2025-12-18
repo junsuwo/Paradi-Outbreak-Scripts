@@ -6,14 +6,14 @@
 **스크립트와 구조 중심으로 설계 의도와 구현 방식을 공개**하기 위해 구성되었습니다.
 
 Unity 기반 3D 협동 디펜스 게임  
-최대 4인이 협력하여 Titan 웨이브를 방어하는 멀티플레이 프로젝트입니다.
+최대 8인이 협력하여 Titan 웨이브를 방어하는 멀티플레이 프로젝트입니다.
 
 ---
 
 ## 🎮 Project Overview
 - Engine: Unity
 - Genre: 3D Cooperative Defense
-- Players: Up to 4
+- Players: Up to 8
 - Network: Photon PUN
 - Backend: PHP + MySQL
 
