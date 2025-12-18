@@ -41,4 +41,4 @@ Scripts/
 
 ## 🎥 Demo
 - Gameplay Video:(https://youtu.be/olwNYIAVD0Y)
-- Build File: (Google Drive / OneDrive 링크)
+- Build File: [(Google Drive / OneDrive 링크)](https://drive.google.com/file/d/1h-FZ6oPTJWWPecvo8y4MONjpvAbZ_zIU/view?usp=drive_link)
