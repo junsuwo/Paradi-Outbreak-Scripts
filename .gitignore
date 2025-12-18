@@ -1,0 +1,32 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+.idea/
+
+# Unity / big stuff (we don't store assets here)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Media / large binaries
+*.psd
+*.mp4
+*.mov
+*.avi
+*.wav
+*.flac
+*.zip
+*.7z
+*.rar
+*.unitypackage
+*.fbx
+*.blend
+*.tga
+*.dae
+*.glb
